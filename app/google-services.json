@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "402638048662",
+    "firebase_url": "https://tallerultimo-ce705-default-rtdb.firebaseio.com",
+    "project_id": "tallerultimo-ce705",
+    "storage_bucket": "tallerultimo-ce705.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402638048662:android:74d69b7be58df95e0ca1b7",
+        "android_client_info": {
+          "package_name": "amst.vilcacundo.tallerClaseFire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402638048662-lk0k5k3cs9b13sj8jnt20bp8mhvt1msd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDadgmhMqgKPXCWGuJ020THogHoA6ZEClU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402638048662-lk0k5k3cs9b13sj8jnt20bp8mhvt1msd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
